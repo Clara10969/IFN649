@@ -1,2 +1,2 @@
 # IFN649
-FOR CLASS
+Assignment 1
